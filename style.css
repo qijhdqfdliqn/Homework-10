@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(178, 148, 126)
+}
+h1{
+    padding-left: 20px;
+    color: antiquewhite;
+}
